@@ -2,6 +2,8 @@
 
 # library
 from math import*
+import numpy as np
+
 
 # Fonction delta
 def delta(a,b,c):
