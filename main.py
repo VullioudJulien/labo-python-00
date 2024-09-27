@@ -22,3 +22,6 @@ def solve(a,b,c):
         z1 = (-b + 1j*sqrt(abs(d)))/(2*a)
         z2 = (-b - 1j*sqrt(abs(d)))/(2*a)
         return z1,z2
+    
+    
+print(solve(1,4,5))
